@@ -5,6 +5,7 @@
 ## 学習の順番
 ### 人工知能についての勉強 ~~(3h)~~ (6h)
 - [機械学習&ディープラーニングのしくみと技術がしっかりわかる教科書](https://amzn.to/3Runwqd)を読む
+- [はてなブログ](https://sonic1216.hatenablog.com/entry/2023/10/06/215431_3)にまとめた
 
 ### プログラミングの勉強(0h)
 - ある程度習得済みなので後述の学習の中で対応する
@@ -15,14 +16,16 @@
 
 ### 数学の勉強 ~~(15h)~~ (6.7h)
 - [最短コースでわかる ディープラーニングの数学](https://amzn.to/3taqk1u)を読む
+- [はてなブログ](https://sonic1216.hatenablog.com/entry/2023/10/16/222720)にまとめた
 
 ### 機械学習・深層学習の勉強(100h)
-- [ゼロから作るDeep Learning](https://amzn.to/3LtoZcs)を読む
-- 
+- [ゼロから作るDeep Learning](https://amzn.to/3LtoZcs)を読む(20h)
+- [はてなブログ](https://sonic1216.hatenablog.com/entry/2023/11/09/210747)にまとめた
 
 ### E資格取得(100h)
 - ラビチャレの講座を全て終える
 - ラビチャレはある程度資格取得のための勉強と割り切る
 
 ### その後の学習
-- 未定
+#### ChatGPTに関する勉強
+- [Python / JavaScriptによるOpen AIプログラミング](https://amzn.to/3MCYEcu)を読む
