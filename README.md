@@ -28,4 +28,4 @@
 
 ### その後の学習
 #### ChatGPTに関する勉強
-- [Python / JavaScriptによるOpen AIプログラミング](https://amzn.to/3MCYEcu)を読む
+- [Python / JavaScriptによるOpen AIプログラミング](https://amzn.to/474784P)を読む
