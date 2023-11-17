@@ -21,6 +21,8 @@
 ### 機械学習・深層学習の勉強(100h)
 - [ゼロから作るDeep Learning](https://amzn.to/3LtoZcs)を読む(20h)
 - [はてなブログ](https://sonic1216.hatenablog.com/entry/2023/11/09/210747)にまとめた
+- [ゼロから作るDeep Learning② ―自然言語処理編](https://amzn.to/40M3HNJ)を読む(h)
+- [はてなブログ]()にまとめた
 
 ### E資格取得(100h)
 - ラビチャレの講座を全て終える
@@ -28,4 +30,7 @@
 
 ### その後の学習
 #### ChatGPTに関する勉強
-- [Python / JavaScriptによるOpen AIプログラミング](https://amzn.to/474784P)を読む
+- [Python / JavaScriptによるOpen AIプログラミング](https://amzn.to/474784P)を読む(10.5h)
+- [はてなブログ]()にまとめた
+- [LangChain完全入門　生成AIアプリケーション開発がはかどる大規模言語モデルの操り方](https://amzn.to/3SDVxoK)を読む(h)
+- [はてなブログ]()にまとめた
