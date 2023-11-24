@@ -28,7 +28,7 @@
 - ラビチャレの講座を全て終える
 - ラビチャレはある程度資格取得のための勉強と割り切る
 
-### その後の学習
+### その他の学習
 #### LLMに関する勉強
 - [Python / JavaScriptによるOpen AIプログラミング](https://amzn.to/474784P)を読む(10.5h)
   - [はてなブログ](https://sonic1216.hatenablog.com/entry/2023/11/16/081830?_gl=1*1xxw3i9*_gcl_au*MTM5OTI4NjcwMS4xNjk2MTMwMDQz)にまとめた
