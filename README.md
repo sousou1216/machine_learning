@@ -34,5 +34,5 @@
   - [はてなブログ](https://sonic1216.hatenablog.com/entry/2023/11/16/081830?_gl=1*1xxw3i9*_gcl_au*MTM5OTI4NjcwMS4xNjk2MTMwMDQz)にまとめた
 - [LangChain完全入門　生成AIアプリケーション開発がはかどる大規模言語モデルの操り方](https://amzn.to/3SDVxoK)を読む(13.9h)
   - [はてなブログ](https://sonic1216.hatenablog.com/entry/2023/11/21/214325?_gl=1*1xxw3i9*_gcl_au*MTM5OTI4NjcwMS4xNjk2MTMwMDQz)にまとめた
-- [ChatGPT/LangChainによるチャットシステム構築［実践］入門](https://amzn.to/3GyyeFL)を読む(h)
-  - [はてなブログ]()にまとめた
+- [ChatGPT/LangChainによるチャットシステム構築［実践］入門](https://amzn.to/3GyyeFL)を読む(14.9h)
+  - [はてなブログ](https://sonic1216.hatenablog.com/)にまとめた
